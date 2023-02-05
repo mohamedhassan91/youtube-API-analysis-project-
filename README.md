@@ -117,7 +117,7 @@ Questions that we might take into consedration
 
 **most common words on titles and description**
 
-**Does length of the videos effect on the views?**
+**Does length of the videos affect on the views?**
 
 * length of the videos distrbutaion to divide them into short and long videos 
  ![image](https://user-images.githubusercontent.com/60258264/216842007-ed85626d-327e-4b0d-a4ec-8268fa468059.png)
