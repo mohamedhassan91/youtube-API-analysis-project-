@@ -187,7 +187,7 @@ you can push the records on the cloud AWS by creating free account on the amazon
 
 ### Next 
 
-* working on the automatically insert new records 
+* we can on the automatically insert new records 
 * pulling comments information to apply different text analysis with NLP
 
 ### Refrences 
