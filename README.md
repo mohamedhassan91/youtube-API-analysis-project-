@@ -4,7 +4,7 @@ A data pipeline is a method in which raw data is ingested from various data sour
 ![image](https://user-images.githubusercontent.com/60258264/216823250-9d769084-1725-4753-8bf7-fbcc3c246997.png)
 ### steps token
 
- 1. pulling the required data from youtube with specific channel using youtube API documentation (there is max limit per day around 10000)
+ 1. pulling the required data from youtube with specific channel using youtube API documentation (there is max limit per day around 10,000)
  2. selecting the required statistcs information
  3. converting the json format into pandas data frame
  4. Exploratory data analysis for the data 
